@@ -14,39 +14,35 @@
 </p>
 
 
-name: Ghaith Kelil
-located_in: Vantaa, Finland
-current_job: IT Engineering Student at Metropolia  & Entrepreneur
-education:
-  [
-    "ICT Engineering at Centria / Metropolia",
-    "Web & Software Developer",
-  ]
+# Ghaith Kelil
 
+Vantaa, Finland · IT Engineering @ Metropolia · Entrepreneur
 
+</div>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "IoT & Embedded Systems",
-    "Artificial Intelligence & Automation",
-    "3D Modeling & Game Development",
-    "Cloud & DevOps",
-  ]
+---
 
+### 👋 About me
+- IT engineering student focusing on **web**, **IoT**, and **automation**.  
+- Build and ship fast; keep things simple and readable.  
+- Past: **Hertz** summer roles · **E-commerce (2k+ orders, 500+ reviews)**
 
-technical_background:
-  [
-    "Full Stack Web Development (Node.js, Express, React, SQL, Docker)",
-    "IoT & Robotics Integration (MicroPython, MQTT, Firebase, Node-RED)",
-    "Unity Game Development (C#)",
-    "Linux System Administration",
-    "E-commerce & Entrepreneurship (2k+ Etsy orders, 500+ reviews)",
-    "Internship & Summer Jobs at Hertz Car Control",
-  ]
-  
-2025 Goals: ["Complete thesis & internship", "Launch company web platform", "Build fitness/health app", "Explore AI & IoT projects"]
-hobbies: ["Gym & Fitness", "Traveling", "Gaming", "Design", "Family Time"]
+### 🎯 Interests
+`Web Development` · `IoT & Embedded` · `AI & Automation` · `3D & Game Dev` · `Cloud & DevOps`
+
+### 🛠️ Technical background
+- Full-stack: **Node.js · Express · React · SQL · Docker**
+- IoT/Robotics: **MicroPython · MQTT · Firebase · Node-RED**
+- **Unity (C#)** · **Linux administration**
+
+### 🗓️ 2025 goals
+- [ ] Finish **thesis** and **internship**  
+- [ ] Launch **company web platform**  
+- [ ] Ship a **fitness/health app**  
+- [ ] Explore **AI + IoT** use cases
+
+### 🧩 Hobbies
+Gym, travel, gaming, design, family time
 
 
 ### 🚀 Some Tools I Have Used and Learned
@@ -76,13 +72,9 @@ hobbies: ["Gym & Fitness", "Traveling", "Gaming", "Design", "Family Time"]
 
           
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
-
-
-
-Workflwo 
-
 ![snake](https://raw.githubusercontent.com/GhaithKelil/GhaithKelil/output/snake.svg#gh-light-mode-only)
 ![snake](https://raw.githubusercontent.com/GhaithKelil/GhaithKelil/output/snake-dark.svg#gh-dark-mode-only)
 
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
