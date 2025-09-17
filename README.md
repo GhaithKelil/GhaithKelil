@@ -14,6 +14,37 @@
 </p>
 
 
+name: Ghaith Kelil
+located_in: Vantaa, Finland
+current_job: IT Engineering Student at Metropolia (TXK25S2) & Entrepreneur
+education:
+  [
+    "ICT Engineering at Centria / Metropolia",
+    "Web & Software Developer",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "IoT & Embedded Systems",
+    "Artificial Intelligence & Automation",
+    "3D Modeling & Game Development",
+    "Cloud & DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Web Development (Node.js, Express, React, SQL, Docker)",
+    "IoT & Robotics Integration (MicroPython, MQTT, Firebase, Node-RED)",
+    "Unity Game Development (C#)",
+    "Linux System Administration",
+    "E-commerce & Entrepreneurship (2k+ Etsy orders, 500+ reviews)",
+    "Internship & Summer Jobs at Hertz Car Control",
+  ]
+  
+2025 Goals: ["Complete thesis & internship", "Launch company web platform", "Build fitness/health app", "Explore AI & IoT projects"]
+hobbies: ["Gym & Fitness", "Traveling", "Gaming", "Design", "Family Time"]
+
+
 ### 🚀 Some Tools I Have Used and Learned
 
 <p align="left">
@@ -40,3 +71,5 @@
 </p>
 
           
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
