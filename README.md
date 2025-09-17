@@ -7,7 +7,7 @@
 </a>
 
 
-### 🚀 Tech Stack
+### 🚀 Some Tools I Have Used and Learned
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
