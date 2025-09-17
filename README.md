@@ -16,7 +16,7 @@
 
 name: Ghaith Kelil
 located_in: Vantaa, Finland
-current_job: IT Engineering Student at Metropolia (TXK25S2) & Entrepreneur
+current_job: IT Engineering Student at Metropolia  & Entrepreneur
 education:
   [
     "ICT Engineering at Centria / Metropolia",
