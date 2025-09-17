@@ -4,7 +4,7 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ghaithkelil/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40" height="40"/>
   </a>
