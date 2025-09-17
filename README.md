@@ -73,3 +73,12 @@ hobbies: ["Gym & Fitness", "Traveling", "Gaming", "Design", "Family Time"]
           
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
+
+
+
+
+### 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake-dark.svg#gh-dark-mode-only)
+
