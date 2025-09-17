@@ -2,9 +2,16 @@
 
 
 
-<a href="https://www.instagram.com/ghaithkelil/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ghaithkelil/" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/ghaithkelil/" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" width="40" height="40"/>
+  </a>
+</p>
 
 
 ### 🚀 Some Tools I Have Used and Learned
