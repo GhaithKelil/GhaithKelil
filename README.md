@@ -23,6 +23,8 @@ education:
     "Web & Software Developer",
   ]
 
+
+
 fields_of_interests:
   [
     "Web Development",
@@ -31,6 +33,8 @@ fields_of_interests:
     "3D Modeling & Game Development",
     "Cloud & DevOps",
   ]
+
+
 technical_background:
   [
     "Full Stack Web Development (Node.js, Express, React, SQL, Docker)",
