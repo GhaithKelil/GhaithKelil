@@ -73,3 +73,12 @@ hobbies: ["Gym & Fitness", "Traveling", "Gaming", "Design", "Family Time"]
           
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
+
+
+- name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
