@@ -34,12 +34,7 @@ Vantaa, Finland · IT Engineering @ Metropolia · Entrepreneur
 - Full-stack: **Node.js · Express · React · SQL · Docker**
 - IoT/Robotics: **MicroPython · MQTT · Firebase · Node-RED**
 - **Unity (C#)** · **Linux administration**
-
-### 🗓️ 2025 goals
-- [ ] Finish **thesis** and **internship**  
-- [ ] Launch **company web platform**  
-- [ ] Ship a **fitness/health app**  
-- [ ] Explore **AI + IoT** use cases
+- 
 
 ### 🧩 Hobbies
 Gym, travel, gaming, design, family time
