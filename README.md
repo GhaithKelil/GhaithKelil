@@ -17,14 +17,9 @@ Vantaa, Finland · ICT Engineering @ Metropolia · Networking
 - 4th-year ICT Engineering student. Graduating May 2027.
 - Looking for a networking or datacenter internship for summer 2027.
 - Completed all three Cisco CCNA courses.
-- Part-time at Hertz since 2023, delivering cars around Helsinki, Turku and Tampere.
-- I speak Finnish, English and Arabic.
 
 ### 🏠 Home lab
 Proxmox server running Immich. It stores my family's photos and videos, so we don't pay for cloud storage for 7 people.
-
-### 🛒 Business
-Ran two Etsy shops alone. **3,200+ orders shipped to 15+ countries.** I wrote Python and SQL automation that cut manual work by 60%, and built API integrations for logistics and payments.
 
 ### 🔨 Projects
 - **Employee Management Portal:** Node.js, React, SQL, role-based access
